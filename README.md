@@ -9,4 +9,6 @@
 ## Connect with me!
 [LinkedIn!](https://www.linkedin.com/in/amaduswaray/)
 
+
+### Programming languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaduswaray)](https://github.com/anuraghazra/github-readme-stats)
