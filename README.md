@@ -17,4 +17,10 @@
 - R
 - Kotlin
 - Swift
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaduswaray)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# Projects
+The repositories with the "projects" in their name consists of multiple directories and multiple projects. Make sure to check them our!
