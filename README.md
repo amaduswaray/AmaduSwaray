@@ -23,4 +23,4 @@
 
 
 # Projects
-The repositories with the "projects" in their name consists of multiple directories and multiple projects. Make sure to check them our!
+The repositories with the "projects" in their name consists of multiple directories and multiple projects. Make sure to check them out!
