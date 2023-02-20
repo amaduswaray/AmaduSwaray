@@ -17,6 +17,10 @@
 - R
 - Kotlin
 - Swift
+- HTML
+- Java Script
+- Type Script
+- React.js
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaduswaray)](https://github.com/anuraghazra/github-readme-stats)
