@@ -3,7 +3,7 @@
 ## I'm a Computer Science student and a Software developer!
 - 🔭 I'm currently on the final year of my Masters
 - 👯 I’m looking to collaborate with other students and developers
-- 😄 2023 Goals: Create more open source projects
+- 😄 2024 Goals: Create more open source projects
 
 
 ## Connect with me!
