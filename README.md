@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-## I'm a Computer Science student and a Software developer!
+## Software developer @ Orgrnrain!
 - 🔭 I'm currently on the final year of my Masters
 - 👯 I’m looking to collaborate with other students and developers
-- 😄 2024 Goals: Create more open source projects
+- 😄 2025 Goals: Create more open source projects
+- Systems programming journey
 
 
 ## Connect with me!
@@ -14,17 +15,14 @@
 - Python
 - Java
 - C
-- R
+- Go
 - Kotlin
 - Swift
 - HTML
-- Java Script
 - Type Script
-- React.js
+- Rust
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaduswaray)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Projects
-The repositories with the "projects" in their name consists of multiple directories and multiple projects. Make sure to check them out!
