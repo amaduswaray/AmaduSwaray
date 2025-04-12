@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Software developer @ Orgrnrain!
+## Software developer @ Orgbrain!
 - 🔭 I'm currently on the final year of my Masters
 - 👯 I’m looking to collaborate with other students and developers
 - 😄 2025 Goals: Create more open source projects
