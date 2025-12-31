@@ -23,11 +23,16 @@ I'm always open to connecting with fellow students and developers. Whether it's 
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amaduswaray&theme=radical&hide_border=true)
 </div>
+
 ## 📈 Contribution Graph
 [![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaduswaray&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
+
 <div align="center">
   
 ### 💭 "The best way to predict the future is to implement it."
+
 ![Profile Views](https://komarev.com/ghpvc/?username=amaduswaray&color=blueviolet&style=flat-square)
+
 </div>
