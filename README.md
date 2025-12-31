@@ -12,17 +12,13 @@ I'm a developer who thrives on exploration and experimentation. Currently riding
 - Building in public and sharing knowledge
 ### 🤝 Let's Collaborate!
 I'm always open to connecting with fellow students and developers. Whether it's an interesting project, a learning opportunity, or just talking out about code - let's talk!
-## 🛠️ Tech Stack
-### Languages
+
+## Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-## 📊 GitHub Stats
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amaduswaray&theme=radical&hide_border=true)
-</div>
+
 
 ## 📈 Contribution Graph
 [![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaduswaray&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
