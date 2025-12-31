@@ -2,7 +2,7 @@
 
 ## Software Developer @ Orgbrain 🚀
 
-I'm a developer who thrives on exploration and experimentation. Currently riding the exciting wave of growth at Orgbrain, a rising startup/scaleup where I get to contribute to building something meaningful from the ground up.
+I'm a developer who thrives on exploration and experimentation. Currently riding the exciting wave of growth at Orgbrain, a rising startup/scaleup where I get to contribute to building something meaningful.
 
 ### 🎯 2026 Goals
 - 💬 Actively engage in developer forums and communities
@@ -12,15 +12,13 @@ I'm a developer who thrives on exploration and experimentation. Currently riding
 - 🎓 Master my craft through continuous learning
 
 ### 🔭 Current Focus
-- Completing my Masters degree (final year!)
 - Deep diving into systems programming
 - Building in public and sharing knowledge
 
 ### 🤝 Let's Collaborate!
-I'm always open to connecting with fellow students and developers. Whether it's an interesting project, a learning opportunity, or just geeking out about code - let's talk!
+I'm always open to connecting with fellow students and developers. Whether it's an interesting project, a learning opportunity, or just talking out about code - let's talk!
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaduswaray/)
+
 
 ## 🛠️ Tech Stack
 
@@ -39,16 +37,12 @@ I'm always open to connecting with fellow students and developers. Whether it's 
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amaduswaray&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amaduswaray&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaduswaray&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amaduswaray&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 [![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaduswaray&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
